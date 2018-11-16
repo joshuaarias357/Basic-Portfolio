@@ -18,6 +18,7 @@ h2 {
     margin: 0;
     background: white;
     overflow: hidden;
+    height: 80px;
 }
 .navbar {
     list-style-type: none;
@@ -40,13 +41,14 @@ p {
 }
 
 #nameLogo {
-    background-color: #ffffff;
-    padding: 30px 0 30px 20px;
+    background-color: #333;
+    padding: 20px 20px 20px 20px;
     float:left;
     margin: auto 0 auto 15%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 30px;
+    color: #fff;
 }
 
 .nav1 {
