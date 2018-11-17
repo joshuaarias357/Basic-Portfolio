@@ -1,5 +1,5 @@
 body {
-    background-image: url("C:/Users/josha/Desktop/Code_Bootcamp/Portfolio Assignment/Basic-Portfolio/images/background.JPG");
+    background-image: url("C:/Users/Josh/Desktop/Coding_bootcamp/Basic-Portfolio/images/background.JPG");
     margin: 0;
     padding: 0;
 }
@@ -140,4 +140,22 @@ input[type=text], select, textarea {
 
 .buttonstyle {
     margin: 10px 40%;
+}
+/* Footer Styling */
+
+.bluefootertop {
+    height: 5px;
+    background-color: teal;
+}
+
+.footerbox {
+    height: 30px;
+    background-color: #444;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.footertext {
+    color: #999;
+    margin-top: 10px;
 }
