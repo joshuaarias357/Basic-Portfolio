@@ -167,3 +167,37 @@ input[type=text], select, textarea {
     color: #999;
     margin-top: 10px;
 }
+
+/* Portfolio CSS */ 
+
+.portimage {
+    float: left;
+    width: 40%;
+    height: auto;
+    margin-left: 6.5%;
+    position: relative;
+}
+
+.hovertext {
+    position: absolute;
+}
+
+.portposition {
+    position: relative;   
+}
+
+.textlayer1{
+    position: absolute;
+    background-color: lightblue;
+    left: 13%;
+    top: 75px;
+    z-index: 1;
+}
+
+.textlayer2 {
+    position: absolute;
+    background-color: lightblue;
+    left: 50%;
+    top: 76px;
+    z-index: 1;
+}
