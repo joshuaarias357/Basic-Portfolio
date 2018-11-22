@@ -181,7 +181,11 @@ input[type=text], select, textarea {
     position: absolute;
     background: grey;
     color: white;
-    top: 50%;
+    top: 75%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    padding: 10px 0;
+
 }
